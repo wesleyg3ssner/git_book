@@ -1,0 +1,25 @@
+.header-post {
+  display: flex;
+  align-items: center;
+}
+
+.header-post img {
+  width: 100px;
+  border-radius: 50%;
+}
+
+.header-post .header-text {
+  display: flex;
+  flex-direction: column;
+
+  margin-left: 15px;
+}
+
+.header-post .header-text h3 {
+  color: #5858bd;
+}
+
+.header-text .post-time {
+  font-size: 0.8rem;
+  color: rgba(0, 0, 0, 0.53);
+}

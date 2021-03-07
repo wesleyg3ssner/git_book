@@ -1,0 +1,13 @@
+.container-post {
+  width: 700px;
+  padding: 20px;
+  background-color: #fff;
+  margin: 50px auto;
+
+  box-shadow: 1px 1px 5px #000;
+}
+
+.container-post p {
+  margin-top: 10px;
+  padding: 10px;
+}
